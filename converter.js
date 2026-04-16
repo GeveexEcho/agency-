@@ -1,5 +1,5 @@
-const fs = require('fs');
-const path = require('fs').promises;
+const fs = require('fs').promises; // <-- Changed: Now using the promise-based fs API
+const path = require('path');      // <-- Changed: Correctly importing the path module
 
 const CONFIG = {
     mdFolders: [
@@ -83,4 +83,3 @@ async function start() {
 }
 
 start();
-                
