@@ -1,5 +1,5 @@
 | SL No. | Agency Name & RL No. | Owner Name & Designation | Photo | Address Of The Agency Office | Mobile, Phone & Fax | Email & Web |
-|---|---|---|---|---------|---|---|
+|--------|----------------------|--------------------------|-------|------------------------------|---------------------|-------------|
 | 1 | 1 Plus Overseas Limited RL No: 1857 | Ms. Tasnia Masud Managing Director | N/A | Sikder Plaza, Block-M, House-79 (Level-8), Airport Road, Chairman Bari, Banani, Dhaka. | Mobile: 01708448004 Phone: 44801030 (Off.) | tasnia203@gmail.com |
 | 2 | 2 Plus Overseas Limited RL No: 2889 | Mr. Md. Gias Uddin Managing Director | N/A | 43/1, Naya Paltan, Paltan, Dhaka-1000. | Mobile: 01710704334 | 2plusoverseasltd2889@gmail.com |
 | 3 | 3R Overseas Ltd. RL No: 2397 | Ms. Mahfuza Afroz Managing Director | N/A | 70/G, Purana Paltan Line, 4th Floor, 
